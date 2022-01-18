@@ -105,5 +105,10 @@
       "entity": "Macro",
       "module": "SharedCompendiums"
     }
-  ]
+  ],
+   "url": "https://github.com/alaustin0/SharedCompendium",
+    "manifest": "https://raw.githubusercontent.com/alaustin0/SharedCompendium/main/module.json",
+    "socket": true,
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9"
  }
